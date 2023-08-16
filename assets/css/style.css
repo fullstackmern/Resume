@@ -1,0 +1,102 @@
+img{
+    border-radius: 100%;
+    width: 35%;
+    height: 30%;
+    margin-left: 17%;
+    margin-top: 10%;
+    position: sticky;
+    
+}
+aside{
+    width: 40%;
+    float:left;
+    background-color: bisque;
+
+}
+section{
+    width: 60%;
+    float: right;
+}
+.top{
+    line-height: 15%;
+    margin-left: 6%;
+    margin-top: 30%;
+    font-style: italic;
+}
+.left{
+    margin-left: 60%;
+    margin-top: 20%;
+}
+.edu-left{
+    margin-left: 60%;
+    margin-top: 50%;
+}
+.skills-left{
+    margin-left: 60%;
+    margin-top: 40%;
+}
+.certifications-left{
+    margin-left: 60%;
+    margin-top: 60%;
+}
+.project-left{
+    margin-left: 60%;
+    margin-top: 40%;
+}
+.lang-left{
+    margin-left: 60%;
+    margin-top: 65%;
+}
+.ref-left{
+    margin-left: 60%;
+    margin-top: 50%;
+}
+.about{
+    margin-top: 20%;
+    margin-left: 6%;
+    font-weight: lighter;
+    justify-content: center;
+    font-weight: 300%;
+}
+.edu{
+    margin-top: 20%;
+    margin-left: 6%;
+    font-weight: lighter;
+    justify-content: center;
+    font-weight: 300%;
+}
+.skills{
+    margin-top: 20%;
+    margin-left: 6%;
+    font-weight: lighter;
+    justify-content: center;
+    font-weight: 300%;
+}
+.certifications{
+    margin-top: 20%;
+    margin-left: 6%;
+    font-weight: lighter;
+    justify-content: center;
+    font-weight: 300%;
+}
+.projects{
+    margin-top: 20%;
+    margin-left: 6%;
+    font-weight: lighter;
+    justify-content: center;
+    font-weight: 300%;
+}
+.languages{
+    margin-top: 20%;
+    margin-left: 6%;
+    font-weight: lighter;
+    justify-content: center;
+    font-weight: 300%;
+}
+.ref{
+    margin-top: 20%;
+    margin-left: 6%;
+    font-weight: lighter;
+    justify-content: center;
+    font-weight: 300%;
+}
